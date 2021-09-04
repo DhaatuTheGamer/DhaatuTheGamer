@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DhaatuTheGamer
-- 👀 I’m interested in codind, web- developing, Software developing
-- 🌱 I’m currently learning ... CSS, JAVA, HTML, Python, JavaScript, Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... chowdhaat2000@gmail.com
+- 👋 Hi, I’m  ... @DhaatuTheGamer
+- 👀 I’m interested in ... Coding, Web- Developing, Software Developing.
+- 🌱 I’m currently learning  ... CSS, JAVA, HTML, Python, JavaScript, Flutter.
+- 💞️ I’m looking to collaborate on  ...  For now lets play with the Codes.
+- 📫 How to reach me  ... chowdhaat2000@gmail.com
 
 <!---
 DhaatuTheGamer/DhaatuTheGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
