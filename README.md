@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  ... @DhaatuTheGamer
-- 👀 I’m interested in ... Coding, Web- Developing, Software Developing.
+- 👀 I’m interested in ... AI, Prompt Engineering, web development, Software development.
 - 🌱 I’m currently learning  ... CSS, JAVA, HTML, Python, JavaScript, Flutter.
 - 💞️ I’m looking to collaborate on  ...  For now lets play with the Codes.
 - 📫 How to reach me  ... chowdhaat2000@gmail.com
